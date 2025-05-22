@@ -1,7 +1,7 @@
 # Fitting Poisson  distribution
 # NAME:NAVEEN.S
 
-# REG NO:212223240106
+# REG NO:2122223240106
 
 # Aim : 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -30,7 +30,6 @@ Conditions for Poisson Distribution:
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
 # Program :
-
 
  ```
 import numpy as np
